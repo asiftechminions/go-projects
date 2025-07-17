@@ -1,0 +1,9 @@
+sevice:
+  port: "8080"
+
+database:
+  user: "root"
+  password: "root"
+  host: "localhost"
+  name: "go_mvc_app"
+  port: "3306"

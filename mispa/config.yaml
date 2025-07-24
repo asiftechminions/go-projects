@@ -1,0 +1,6 @@
+github:
+  token: "your_github_pat"
+  owner: "your-username"
+  repo: "your-repository"
+  branch: "main"
+  download_dir: "./downloaded_files"

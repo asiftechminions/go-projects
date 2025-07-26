@@ -1,0 +1,5 @@
+server:
+  port: 8080
+
+database:
+  dsn: "root:root@tcp(127.0.0.1:3306)/testdb?charset=utf8mb4&parseTime=True&loc=Local"
